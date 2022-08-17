@@ -1,4 +1,4 @@
-def max_of_three(a):
+#def max_of_three(a):
     return a
 sum=max_of_three(1)
 print(sum)
